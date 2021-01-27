@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on `Golang`.
-- 🌱 I’m currently learning microservices.
+- 🌱 I’m currently working on `nsq`.
 - 💬 Ask me about go, opentracing, dokcer and k8s etc.
 - 📫 How to reach me: `yusankurban@gmail.com`
 - ⚡ Fun fact: ...
