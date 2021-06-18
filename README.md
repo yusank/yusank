@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on `Golang`.
-- 🌱 I’m currently working on `nsq`.
-- 💬 Ask me about go, opentracing, dokcer and k8s etc.
+- 🔭 I’m currently working on [go-micro](https://github.com/asim/go-micro),[nsq](https://github.com/nsqio/nsq).
+- 💬 Ask me about go, opentracing, dokcer,nsq,go-micro,miscro-services etc.
 - 📫 How to reach me: `yusankurban@gmail.com`
 - ⚡ Fun fact: ...
