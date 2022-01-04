@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [go-micro](https://github.com/asim/go-micro),[nsq](https://github.com/nsqio/nsq).
+- 🔭 I’m currently working on [go-micro](https://github.com/asim/go-micro),[godis](https://github.com/yusank/godis), [KEDA](https://github.com/kedacore/keda).
 - 💬 Ask me about go, opentracing, dokcer,nsq,go-micro,miscro-services etc.
 - 📫 How to reach me: `yusankurban@gmail.com`
 - ⚡ Fun fact: ...
