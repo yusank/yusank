@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [go-micro](https://github.com/asim/go-micro),[godis](https://github.com/yusank/godis), [KEDA](https://github.com/kedacore/keda).
-- 💬 Ask me about go, opentracing, dokcer,nsq,go-micro,miscro-services etc.
+- 🔭 I’m currently working on [vodka(a microservice framework)](https://github.com/silverswords/vodka), [KEDA](https://github.com/kedacore/keda), [GoIM](https://github.com/go-goim).
+- 💬 Ask me about go, opentracing, dokcer,mq,microservices etc.
 - 📫 How to reach me: `yusankurban@gmail.com`
-- ⚡ Fun fact: ...
