@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on [vodka(a microservice framework)](https://github.com/silverswords/vodka), [KEDA](https://github.com/kedacore/keda), [GoIM](https://github.com/go-goim).
-- 💬 Ask me about go, opentracing, docker,mq,microservices etc.
+- 🔭 I’m currently working on [vodka(a microservice framework)](https://github.com/silverswords/vodka), [KEDA](https://github.com/kedacore/keda), [GoIM](https://github.com/go-goim), [Karmada](https://github.com/karmada-io/karmada).
+- 💬 Ask me about go, k8s, docker, mq, microservice-relative etc.
 - 📫 How to reach me: `yusankurban@gmail.com`
